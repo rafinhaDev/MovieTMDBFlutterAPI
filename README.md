@@ -1,14 +1,13 @@
-# MovieApp
+# MovieApp :tw-1f3ac:
 
-An Aplication for check the movie billboard
+An application to consult the current movie billboard
 
-## API TheMovieDB 
+#####With TheMovieDB API to get all the movie data. [Here Doucumentation ](https://www.themoviedb.org/documentation/api "Here Doucumentation ")
 
-The method Get for consulting the API 
+Using Widgets like a Cardswiper and Sliders among others
 
-This project is a starting point for a Flutter application.
+[![Image App](https://user-images.githubusercontent.com/60563966/133547827-f03314f3-8893-4d83-afe2-6ecf4b020714.PNG "Image App")](https://user-images.githubusercontent.com/60563966/133547827-f03314f3-8893-4d83-afe2-6ecf4b020714.PNG "Image App")
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
