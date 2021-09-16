@@ -1,4 +1,4 @@
-# MovieApp :tw-1f3ac:
+# MovieApp
 
 An application to consult the current movie billboard
 
