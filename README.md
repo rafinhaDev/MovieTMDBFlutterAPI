@@ -2,7 +2,7 @@
 
 An application to consult the current movie billboard
 
-#####With TheMovieDB API to get all the movie data. [Here Doucumentation ](https://www.themoviedb.org/documentation/api "Here Doucumentation ")
+#### With TheMovieDB API to get all the movie data. [Here Doucumentation ](https://www.themoviedb.org/documentation/api "Here Doucumentation ")
 
 Using Widgets like a Cardswiper and Sliders among others
 
