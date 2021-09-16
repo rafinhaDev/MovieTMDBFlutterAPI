@@ -1,8 +1,10 @@
-# peliculas
+# MovieApp
 
-A new Flutter project.
+An Aplication for check the movie billboard
 
-## Getting Started
+## API TheMovieDB 
+
+The method Get for consulting the API 
 
 This project is a starting point for a Flutter application.
 
